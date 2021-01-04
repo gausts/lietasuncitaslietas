@@ -1,0 +1,48 @@
+body {
+  background-color: aliceblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-style: oblique
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+  font-style: oblique
+}
+
+.virs {
+  background-color: aliceblue;
+  color: teal;
+  border: 2px solid black;
+  -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+  margin: 20px;
+  padding: 20px;
+  letter-spacing: -1px;
+  font-size: 80px;
+  font-family: Bookman, URW Bookman L, sans-serif
+}
+
+.teksts {
+  background-color: aliceblue;
+  color: teal;
+  letter-spacing: -1px;
+  font-size: 30px;
+  font-family: Bookman, URW Bookman L, sans-serif
+}
+
+.outline {
+	outline-style: outset;
+	outline-color: black;
+}
+
+.saraksts {
+  color: darkcyan;
+  letter-spacing: -1px;
+  font-size: 30px;
+  font-family: Bookman, URW Bookman L, sans-serif
+}
